@@ -1,0 +1,37 @@
+body {
+    background-color: #e29cce;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #f1109b;
+    text-align: center;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+a {
+    color: #f1109b;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+video {
+    max-width: 100%;
+    height: auto;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 10px 0;
+}
