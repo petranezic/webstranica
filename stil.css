@@ -4,6 +4,18 @@ body {
     font-family: 'Montserrat', Arial, sans-serif;
     color: #333;
     margin: 15px;
+display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   margin: 0;
+}
+section {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 80%;
+   height: 80%;
 }
 h1 {
     color: #f1109b;
