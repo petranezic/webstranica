@@ -5,6 +5,8 @@ body {
     color: #333;
     margin: 15px;
     padding: 15px;
+    display: flex;
+    justify-content: center;
 }
 h1 {
     color: #f1109b;
