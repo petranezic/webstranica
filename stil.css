@@ -4,6 +4,9 @@ body {
     font-family: 'Montserrat', Arial, sans-serif;
     color: #333;
     margin: 15px;
+    display: flex;
+    flex-direction: column;     
+    align-items: center;
 }
 h1 {
     color: #f1109b;
