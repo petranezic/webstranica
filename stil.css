@@ -67,10 +67,6 @@ nav a:focus {
     text-decoration: underline; 
     box-shadow: 0 4px 16px rgba(241,16,155,0.15);
 }
-nav a:visited {
-    
-    color: #0b33b5;           /* možeš promijeniti i boju teksta ako želiš */
-}
 .container {
     max-width: 900px;
     margin: 40px auto;
