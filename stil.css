@@ -65,7 +65,11 @@ nav a:focus {
     background: #352c29;
     color: #fff;
     box-shadow: 0 4px 16px rgba(241,16,155,0.15);
-    text-decoration: none;
+    text-decoration: underline;
+}
+nav a:visited {
+    background: #4642b6;   
+    color: #fff;          
 }
 .container {
     max-width: 900px;
